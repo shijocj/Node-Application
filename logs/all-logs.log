@@ -1,0 +1,56 @@
+03-07-2022 14:00:42:042 - [info ] - connecting to the port...
+03-07-2022 14:07:10:710 - [info ] - connecting to the port...
+03-07-2022 14:08:35:835 - [info ] - connecting to the port...
+03-07-2022 14:08:59:859 - [info ] - in default page.
+03-07-2022 14:50:48:5048 - [[32minfo[39m] - connecting to the port...
+03-07-2022 14:51:31:5131 - [[32minfo[39m] - connecting to the port...
+03-07-2022 14:51:53:5153 - [[32minfo[39m] - in default page.
+03-07-2022 14:52:46:5246 - [[32minfo[39m] - connecting to the port...
+03-07-2022 14:52:58:5258 - [[32minfo[39m] - in default page.
+03-07-2022 14:53:00:530 - [[32minfo[39m] - getting information for ID :62bdd85320840f09e059821d
+03-07-2022 14:53:44:5344 - [[32minfo[39m] - connecting to the port...
+03-07-2022 14:53:50:5350 - [[32minfo[39m] - getting information for ID :62bdd85320840f09e059821d
+[object Object] 03-07-2022 14:55:12:5512 - [[32minfo[39m] - connecting to the port...
+{"message":"connecting to the port...","level":"\u001b[32minfo\u001b[39m","timestamp":"03-07-2022 14:56:02:562"} 03-07-2022 14:56:02:562 - [[32minfo[39m] - connecting to the port...
+03-07-2022 14:57:12:5712 - [info ] - connecting to the port...
+03-07-2022 14:59:32:5932 - [info ] - connecting to the port...
+[object Object]
+[32m03-07-2022 15:12:09:129 - [info] - connecting to the port...[39m
+[32m03-07-2022 15:12:30:1230 - [info] - in default page.[39m
+[32m03-07-2022 15:12:55:1255 - [info] - getting information for ID :62bdd85320840f09e059821d[39m
+[32m03-07-2022 15:13:46:1346 - [info] - connecting to the port...[39m
+[32m03-07-2022 15:13:57:1357 - [info] - in default page.[39m
+[32m03-07-2022 15:14:05:145 - [info] - getting information for ID :62bdd85320840f09e059821d[39m
+[31m03-07-2022 15:14:05:145 - [error] - getting information for ID :62bdd85320840f09e059821d[39m
+[32m03-07-2022 15:14:57:1457 - [info] - connecting to the port...[39m
+[32m03-07-2022 15:15:02:152 - [info] - in default page.[39m
+[32m03-07-2022 15:15:09:159 - [info] - getting information for ID :62bdd85320840f09e059821d[39m
+[31m03-07-2022 15:15:09:159 - [error] - getting information for ID :62bdd85320840f09e059821d[39m
+[32mundefined - 03-07-2022 15:17:15:1715 - [info ] - connecting to the port...[39m
+03-07-2022 15:22:53:2253 [[LOGGER]] [32minfo[39m: [32mconnecting to the port...[39m
+03-07-2022 15:24:39:2439 [LOGGER] [32minfo[39m: [32mconnecting to the port...[39m:undefined
+[32mundefined - 03-07-2022 15:26:55:2655 - [info ] - connecting to the port...[39m
+[32m03-07-2022 15:27:17:2717 - [info ] - connecting to the port...[39m
+03-07-2022 15:31:02:312 - [info ] - connecting to the port...
+[34m[1m03-07-2022 15:33:16:3316 - [info ] - connecting to the port...[22m[39m
+[32m03-07-2022 15:34:35:3435 - [info ] - connecting to the port...[39m
+[32m03-07-2022 15:34:47:3447 - [info ] - getting information for ID :62bdd85320840f09e059821d[39m
+[31m[1m03-07-2022 15:34:47:3447 - [error] - getting information for ID :62bdd85320840f09e059821d[22m[39m
+[32m03-07-2022 15:39:09:399 - [info ] - connecting to the port...[39m
+[32m03-07-2022 15:43:01:431 - [[32minfo[32m] - [32mconnecting to the port...[32m[39m
+03-07-2022 15:45:06:456 - [[32minfo[39m] - connecting to the port...
+03-07-2022 15:45:32:4532 - [info ] - connecting to the port...
+[32m03-07-2022 15:47:39:4739 - [info ] - connecting to the port...[39m
+[32m03-07-2022 15:48:27:4827 - [info ] - connecting to the port...[39m
+[32m03-07-2022 15:56:44:5644 - [info ] - connecting to the port...[39m
+[32m03-07-2022 15:57:36:5736 - [info ] - connecting to the port...[39m
+[32m03-07-2022 15:58:04:584 - [info ] - connecting to the port...[39m
+[32m03-07-2022 15:58:50:5850 - [[32minfo[32m] - [32mconnecting to the port...[32m[39m
+[32m03-07-2022 15:59:25:5925 - [info ] - connecting to the port...[39m
+[32m03-07-2022 16:00:25:025 - [info ] - connecting to the port...[39m
+[32m03-07-2022 16:00:59:059 - [info ] - connecting to the port...[39m
+[32mundefined - 03-07-2022 16:01:53:153 - [info ] - connecting to the port...[39m
+[32m03-07-2022 16:02:30:230 - [info ] - connecting to the port...[39m
+03-07-2022 16:02:55:255 - [info ] - connecting to the port...
+[34m[1m03-07-2022 16:03:56:356 - [info ] - connecting to the port...[22m[39m
+03-07-2022 16:05:28:528 - [info ] - connecting to the port...

@@ -1,0 +1,22 @@
+{
+  "name": "crash_course",
+  "version": "1.0.0",
+  "description": "Node js application describtion.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Shijo C J",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.23.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.4.1",
+    "morgan": "^1.10.0",
+    "winston": "^3.8.1"
+  }
+}
