@@ -10,7 +10,7 @@ const app = express();
 
 const port = process.env.PORT || 3000;
 
-const dbURI = 'mongodb+srv://shijo:Test1234@nodetut.rmburwb.mongodb.net/note-tuts?retryWrites=true&w=majority';
+const dbURI = 'mongodb+srv://username:password@nodetut.rmburwb.mongodb.net/db_name?retryWrites=true&w=majority';
 mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true })
     .then((res) => {
         app.listen(port);
